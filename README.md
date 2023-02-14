@@ -118,10 +118,10 @@ Context Actions starting in synthona 1.2.3
 
 Starting with version 1.2.3, certain node types now have special actions which are automatically launched when you "right-click" a node. URLS will open in your browser when you right click them, files will open in their default program, text nodes will take you to their page in the association browser rather than to the editor...Give it a try and see how it goes! In the future this may be made configurable.
 
-What is the license, do you accept pull requests?
+do you accept pull requests?
 -------------------------------------------------
 
-synthona is an open-source project and is licensed under GPLv3 which means if you want to take things into your own hands you're free to fork the project, but I am also more than willing to hear out your concerns and try to implement changes myself if I can or accept pull requests if they fit the project roadmap! There is a very clear vision for where the app is headed, but suggestions are still welcome. The goal here is to make something which benefits as many people as possible. If you're interested in taking a look at the code feel free to check out the project on [github](https://www.github.com/synthona) !
+if you want to take things into your own hands you're free to fork the project, but I am also more than willing to hear out your ideas and try to implement changes myself if I can or accept pull requests if they fit the project roadmap! There is a vision for where the project is headed, but suggestions are still welcome. The goal here is to make something which benefits as many people as possible. If you're interested in taking a look at the code feel free to check out the project on [github](https://www.github.com/synthona) !
 
 How do I get the latest update?
 -------------------------------
