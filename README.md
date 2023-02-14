@@ -64,14 +64,6 @@ This button will allow you to pin a node to your starboard! The Starboard is a s
 
 This button will open the active node in your default web browser! This is useful for various reasons, like if you want to run the application in your browser as a tab, if you wanted to save images or files into your downloads folder, or as a way to manage additional synthona tabs.
 
-### Visible
-
-Clicking this icon allows you to toggle whether a node is visible on the homepage or not. Nodes which are hidden from the homepage will only be accessible through their associations. This allows you to hide content behind other content.
-
-### Searchable
-
-Clicking this icon allows you to toggle whether a node will appear in a search or not.
-
 ### Image Picker & Replacer
 
 Clicking this is contextual, but has to do with picking or replacing an image on a node. In URL nodes, you can replace the node's preview image with the URL of any image from the internet or from elsewhere in synthona (right click and "copy image address" to get replacement images). In File nodes, for the time being at least, this icon will allow you to pick a file from your filesystem to use as the preview image. LONG STORY SHORT...The Picture Icon has to do with customization of pictures & images! Experiment with it to customize appearances!
@@ -110,11 +102,6 @@ Context Actions starting in synthona 1.2.3
 ------------------------------------------
 
 Starting with version 1.2.3, certain node types now have special actions which are automatically launched when you "right-click" a node. URLS will open in your browser when you right click them, files will open in their default program, text nodes will take you to their page in the association browser rather than to the editor...Give it a try and see how it goes! In the future this may be made configurable.
-
-Help! I hid a node from both search and the explore page. How do I find it again?
----------------------------------------------------------------------------------
-
-No problem! The way to find your lost node is to set another node, preferably a well-connected one, temporarily to _hidden from explore_ by clicking the icon so it toggles to. Now, from that well-connected node which you've hidden from the explore page, go to add a new association. It is possible to associate hidden nodes to other hidden nodes, and so you should be able to associate to it and find it again that way.
 
 Is my data being backed up anywhere?
 ------------------------------------
