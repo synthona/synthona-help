@@ -130,7 +130,7 @@ Easy! Just go to [synthona.itch.io](https://synthona.itch.io/synthona) download 
 
 At some undecided point in the future we would like to add automatic updates, but unfortunately microsoft charges like $300 for a certificate to allow you to do that, and Mac has similar restrictions. A workaround may be possible, but we haven't gotten around to that yet. Maybe someday! For now updates are manual.
 
-I want to financially support development, what should I do?
+I want to support development, what should I do?
 ------------------------------------------------------------
 
 There is a [patreon](https://www.patreon.com/hyperpoints) or you can donate at [synthona.itch.io](https://synthona.itch.io/synthona) where you downloaded the app originally, and I may add more options in the future. We have a lot of ideas for improvements to this application including things like P2P features, automatic updates, theme support, plugin support, a lot of other node types, maps, web-features, analytics, social features, 3D features, LAN connections between instances, and so much more, but we can't afford to work on features full time at the moment. This project was originally designed to function as a distrubuted P2P social network, but there is still a lot of work to be done before that is possible and funding would allow me to work on that and other features including a phone application. If we get enough funding I would like to eventually found a worker-owned democratic co-op organization around the project!
