@@ -126,7 +126,7 @@ synthona is an open-source project and is licensed under GPLv3 which means if yo
 How do I get the latest update?
 -------------------------------
 
-Easy! Just go to [synthona.itch.io](https://synthona.itch.io/synthona) {', '} download the latest version, and install it! All your data will carry over, all you have to do is close the app, and run the installer for the new version. Because the data is stored outside the app, you can overwrite the old version with the new version without fear. If you're the type to worry, it couldn't hurt to make a little backup before updating just in case, but we do test everything before releasing as well! It's worth updating eventually, because updates often add new features which expand functionality.
+Easy! Just go to [synthona.itch.io](https://synthona.itch.io/synthona) download the latest version, and install it! All your data will carry over, all you have to do is close the app, and run the installer for the new version. Because the data is stored outside the app, you can overwrite the old version with the new version without fear. If you're the type to worry, it couldn't hurt to make a little backup before updating just in case, but we do test everything before releasing as well! It's worth updating eventually, because updates often add new features which expand functionality.
 
 At some undecided point in the future we would like to add automatic updates, but unfortunately microsoft charges like $300 for a certificate to allow you to do that, and Mac has similar restrictions. A workaround may be possible, but we haven't gotten around to that yet. Maybe someday! For now updates are manual.
 
@@ -135,9 +135,9 @@ I want to financially support development, what should I do?
 
 There is a [patreon](https://www.patreon.com/synthona) or you can donate at [synthona.itch.io](https://synthona.itch.io/synthona) where you downloaded the app originally, and I may add more options in the future. We have a lot of ideas for improvements to this application including things like P2P features, automatic updates, theme support, plugin support, a lot of other node types, maps, web-features, analytics, social features, 3D features, LAN connections between instances, and so much more, but we can't afford to work on features full time at the moment. This project was originally designed to function as a distrubuted P2P social network, but there is still a lot of work to be done before that is possible and funding would allow me to work on that and other features including a phone application. If we get enough funding I would like to eventually found a worker-owned democratic co-op organization around the project!
 
-I am also hoping to add some Patreon bonuses like a Discord, custom icons for synthona (other colors than yellow for example), and more, but you should know that I have just been so busy that this has fallen into the background...never fear! It is on my long to-do list. If this sort of thing sounds interesting to you, feel free to say something on [twitter](https://www.twitter.com/synthona) about it or reach out to the synthona email account, and I could maybe bump it up as a priority! User feedback does play a role in what I decide to work on.
+I am also hoping to add some Patreon bonuses like a Discord, custom icons for synthona (other colors than yellow for example), and more, but you should know that I have just been so busy that this has fallen into the background...never fear! It is on my long to-do list. If this sort of thing sounds interesting to you, feel free to post something somewhere or reach out to the synthona email account, and I could maybe bump it up as a priority! User feedback does play a role in what I decide to work on.
 
 I have a bug report, feature request, or other inquiry?
 -------------------------------------------------------
 
-Please send an email to [synthona@gmail.com](mailto:synthona@gmail.com) or reach out on [twitter](https://www.twitter.com/synthona) and we will get things sorted out as soon as possible!
+Please send an email to [synthona@gmail.com](mailto:synthona@gmail.com) or reach out some other way and we can chat!
