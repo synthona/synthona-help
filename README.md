@@ -128,7 +128,7 @@ At some undecided point in the future we would like to add automatic updates, bu
 I want to support development, what should I do?
 ------------------------------------------------------------
 
-There is a [patreon](https://www.patreon.com/synthona) or you can donate at [synthona.itch.io](https://synthona.itch.io/synthona) where you downloaded the app originally, and I may add more options in the future.
+There is a [patreon](https://www.patreon.com/synthona) or you can donate at [synthona.itch.io](https://synthona.itch.io/synthona) where you downloaded the app.
 
 I have a bug report, feature request, or other inquiry?
 -------------------------------------------------------
