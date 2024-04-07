@@ -98,11 +98,6 @@ When you delete a file node, it will not delete the file itself, only the node i
 
 In other words, synthona will not mess with your stuff! If you want to keep imported files long-term it is recommended that you copy them out of the import-location into a better place!
 
-Context Actions starting in synthona 1.2.3
-------------------------------------------
-
-Starting with version 1.2.3, certain node types now have special actions which are automatically launched when you "right-click" a node. URLS will open in your browser when you right click them, files will open in their default program, text nodes will take you to their page in the association browser rather than to the editor...Give it a try and see how it goes! In the future this may be made configurable.
-
 Is my data being backed up anywhere?
 ------------------------------------
 
@@ -133,9 +128,7 @@ At some undecided point in the future we would like to add automatic updates, bu
 I want to support development, what should I do?
 ------------------------------------------------------------
 
-There is a [patreon](https://www.patreon.com/hyperpoints) or you can donate at [synthona.itch.io](https://synthona.itch.io/synthona) where you downloaded the app originally, and I may add more options in the future. We have a lot of ideas for improvements to this application including things like P2P features, automatic updates, theme support, plugin support, a lot of other node types, maps, web-features, analytics, social features, 3D features, LAN connections between instances, and so much more, but we can't afford to work on features full time at the moment. This project was originally designed to function as a distrubuted P2P social network, but there is still a lot of work to be done before that is possible and funding would allow me to work on that and other features including a phone application. If we get enough funding I would like to eventually found a worker-owned democratic co-op organization around the project!
-
-I am also hoping to add some Patreon bonuses like a Discord, custom icons for synthona (other colors than yellow for example), and more, but you should know that I have just been so busy that this has fallen into the background...never fear! It is on my long to-do list. If this sort of thing sounds interesting to you, feel free to post something somewhere or reach out to the synthona email account, and I could maybe bump it up as a priority! User feedback does play a role in what I decide to work on.
+There is a [patreon](https://www.patreon.com/synthona) or you can donate at [synthona.itch.io](https://synthona.itch.io/synthona) where you downloaded the app originally, and I may add more options in the future.
 
 I have a bug report, feature request, or other inquiry?
 -------------------------------------------------------
