@@ -10,6 +10,7 @@ For now the main keyboard shortcuts, which currently only work in the core app (
 
 *   CMD/CTRL+G - jump to the graph constellation browser
 *   CMD/CTRL+H - jump to the home page
+*   CMD/CTRL+; - summon synthona (this works outside the app as long as it's running. key is also configurable in settings)
 *   CMD/CTRL+L - jump to the search bar
 *   CMD/CTRL+F - activate in-page search
 *   CMD/CTRL+J - jump to starboard
@@ -38,6 +39,10 @@ The Graph Constellation Browser
 -------------------------------
 
 The Graph Browser, sometimes known as the Constellation browser, is one way to browse through your nodes and associations! You can get there clicking the "graph" icon on any node, on the IO bar, or by clicking the "graph" option from the main menu. If you click it from a specific node, you'll see the associations for that node and their relationships to each other displayed. Accessing it from the IO bar or options menu will instead show a list of the most recently accessed nodes! Once you are in the constellation browser you can zoom in and out by scrolling up and down, jump to a node by double clicking it, or jump through the graph browser by right clicking on a node.
+
+**Renderlinking**
+---------------------------------
+check out this link for more information: (introducing renderlinking)[https://synthona.substack.com/]
 
 What are do all these icons mean?
 ---------------------------------
