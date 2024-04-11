@@ -43,7 +43,7 @@ The Graph Browser, sometimes known as the Constellation browser, is one way to b
 
 **Renderlinking**
 ---------------------------------
-check out this post on the new synthona substack for more information: [renderlinking](https://synthona.substack.com/p/synthona-129)
+check out this post on the new synthona substack for more information: [\[\[renderlinking\]\]](https://synthona.substack.com/p/synthona-129)
 
 What are do all these icons mean?
 ---------------------------------
