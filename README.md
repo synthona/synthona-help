@@ -13,7 +13,8 @@ For now the main keyboard shortcuts, which currently only work in the core app (
 *   CMD/CTRL+; - summon synthona (this works outside the app as long as it's running. key is also configurable in settings)
 *   CMD/CTRL+L - jump to the search bar
 *   CMD/CTRL+F - activate in-page search
-*   CMD/CTRL+J - jump to starboard
+*   CMD/CTRL+J - jump to favorites page
+*   CMD/CTRL+O - jump to settings
 *   CMD/CTRL+OPTION/ALT+1 - save the current node to the quick menu
 *   CMD/CTRL+1 - jump to #1 on the quick menu if you have saved something there
 *   Quick-Menu - the quick menu will also work with the number keys 1-9
