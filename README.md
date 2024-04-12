@@ -1,7 +1,7 @@
 Help Page
 ---------
 
-Hello there! Welcome to the help page! This is where you can get the help you need, so you can rest easy. Allow me to explain exactly what is going on here. First things first, you are on the help page! It's a nice place to hang out. There's all kinds of wonderful things you learn while you are here!
+Hello there! Welcome to the help page! This is where you can get the help you need, so you can rest easy. Allow me to explain exactly what is going on here. First things first, you are on the help page! It's a nice place to hang out!
 
 Keyboard Shortcuts
 ------------------
@@ -22,7 +22,7 @@ For now the main keyboard shortcuts, which currently only work in the core app (
 What is synthona?
 -----------------
 
-synthona is a way of being & thinking. synthona allows you to create, explore, and share networks made out of content! You can use synthona for whatever you want, some ideas include "building a mind palace, storing URL bookmarks, exploring your filesystem, thinking, note-taking, as a memory-expansion for your brain, for world-building, planning, and so forth...there are few limits!" That might sound overwhelming but it's really not so bad once you get familiar. synthona tries its best not to make any changes to your computer outside of itself, so feel free to click around & experiment, that is the best way to learn after all!
+synthona is a way of being & thinking. synthona allows you to create, explore, and share networks made out of content! You can use synthona for whatever you want, some ideas include "building a mind palace, storing URL bookmarks, exploring your filesystem, thinking, note-taking, as a memory-expansion for your brain, for world-building, planning, and so forth...there are few limits!" Synthona tries its best not to make any changes to your computer outside of itself, so feel free to click around & experiment!
 
 What are nodes and associations?
 --------------------------------
@@ -117,7 +117,7 @@ Your data is stored in your user data folder. This will be different depending o
 Context Actions starting in synthona 1.2.3
 ------------------------------------------
 
-Starting with version 1.2.3, certain node types now have special actions which are automatically launched when you "right-click" a node. URLS will open in your browser when you right click them, files will open in their default program, text nodes will take you to their page in the association browser rather than to the editor...Give it a try and see how it goes! In the future this may be made configurable.
+Starting with version 1.2.3, certain node types now have special actions which are automatically launched when you "right-click" a node. URLS will open in your browser when you right click them, files will open in their default program, text nodes will take you to their page in the association browser rather than to the editor...Give it a try and see how it goes!
 
 do you accept pull requests?
 -------------------------------------------------
@@ -128,8 +128,6 @@ How do I get the latest update?
 -------------------------------
 
 Easy! Just go to [synthona.itch.io](https://synthona.itch.io/synthona) download the latest version, and install it! All your data will carry over, all you have to do is close the app, and run the installer for the new version. Because the data is stored outside the app, you can overwrite the old version with the new version without fear. If you're the type to worry, it couldn't hurt to make a little backup before updating just in case, but we do test everything before releasing as well! It's worth updating eventually, because updates often add new features which expand functionality.
-
-At some undecided point in the future we would like to add automatic updates, but unfortunately microsoft charges like $300 for a certificate to allow you to do that, and Mac has similar restrictions. A workaround may be possible, but we haven't gotten around to that yet. Maybe someday! For now updates are manual.
 
 I want to support development, what should I do?
 ------------------------------------------------------------
