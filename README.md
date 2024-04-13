@@ -1,7 +1,11 @@
 Help Page
 ---------
 
-Hello there! Welcome to the help page! This is where you can get the help you need, so you can rest easy. Allow me to explain exactly what is going on here. First things first, you are on the help page! It's a nice place to hang out!
+Hello there! Welcome to the help page! 
+
+This is where you can get the help you need, so you can rest easy.
+
+If you're a developer, check out the [wiki](https://github.com/synthona/synthona-electron/wiki)
 
 Keyboard Shortcuts
 ------------------
