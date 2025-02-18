@@ -136,7 +136,7 @@ Easy! Just go to [synthona.itch.io](https://synthona.itch.io/synthona) download 
 I want to support development, what should I do?
 ------------------------------------------------------------
 
-There is a [patreon](https://www.patreon.com/synthona) or you can donate at [synthona.itch.io](https://synthona.itch.io/synthona) where you downloaded the app.
+There is a [patreon](https://www.patreon.com/yarnline) or you can donate at [synthona.itch.io](https://synthona.itch.io/synthona) where you downloaded the app.
 
 I have a bug report, feature request, or other inquiry?
 -------------------------------------------------------
